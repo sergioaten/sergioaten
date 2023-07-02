@@ -1,4 +1,4 @@
-# Sergio - Cloud & DevOps Engineer
+Cloud & DevOps Engineer
 
 Hey!👋
 
