@@ -12,11 +12,11 @@ Hey!👋
 
 ⚙️ My goal is to specialize in DevOps and work with tools and technologies like:
 
-* Terraform: Infrastructure as code.
-* Docker and Kubernetes: Containerization.
-* CI/CD (Azure DevOps, GitHub Actions, Jenkins, etc.): Continuous integration and deployment.
-* Git: Version control.
-* Scripting with bash and Python.
+- Terraform: Infrastructure as code.
+- Docker and Kubernetes: Containerization.
+- CI/CD (Azure DevOps, GitHub Actions, Jenkins, etc.): Continuous integration and deployment.
+- Git: Version control.
+- Scripting with bash and Python.
 
 🦾 I am proactive, a fast learner, and I like to stay up to date with the latest trends and best practices. I enjoy working in teams, where I can contribute my perspective, and I'm always ready to help.
 
